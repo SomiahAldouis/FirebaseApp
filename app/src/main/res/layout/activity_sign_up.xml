@@ -11,27 +11,21 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/user_email"
+        android:id="@+id/email"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/user_pass"
+        android:id="@+id/pass"
         />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/log_in"
+        android:id="@+id/login"
         android:text="Login"
         android:layout_gravity="center"/>
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/sign_up"
-        android:text="signUp"
-        android:layout_gravity="center"/>
 
 
 
